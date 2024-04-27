@@ -1,0 +1,37 @@
+Thank you so much giving me an opportunity and considering my submission.
+
+I used .NET COre 8.0 Latest version
+
+Task 1 : ASP.NET Core Web API
+
+I created for Model and Controller to show data and the crud operation
+Created a Table called Products
+
+I used packages for .NET Entity Core and SQL Server
+
+Task 2 : Entity Framework Core Integration 
+
+I used packages for .NET Entity Core and SQL Server
+ Migrated data using package console and command for migrating.
+ 
+ commands are : add migration and update migration
+ 
+ Task 3: Dependency Injection and Task 6 are implemented
+ 
+ Task 4: Authentication and Authorization 
+ Jwt authentication used for two role Admin and User.
+ Created two models.
+ Implement methods in the program.cs
+ Use packages JWt bearer 
+ 
+ 
+Task 5: Custom Middleware 
+Created a middleware components for Asp.Net Core pipeline
+
+Task 7: API Documentation 
+Generate API documentation using Swagger or API documentation comments (XML documentation).
+I used this two packages Microsoft.AspNetCore.OpenApi, Swashbuckle.AspNetCore
+Implement code in program.cs
+In the XML document cs.proj implement 2 two methods.
+
+
